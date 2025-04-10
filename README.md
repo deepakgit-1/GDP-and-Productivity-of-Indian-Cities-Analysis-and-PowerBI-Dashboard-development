@@ -57,8 +57,8 @@ Python (Pandas, Matplotlib) – For data preprocessing and exploration.
 
 📌 How to Run the Streamlit Dashboard
 
-pip install streamlit pandas matplotlib
-streamlit run streamlit_app.py
+- pip install streamlit pandas matplotlib
+- streamlit run streamlit_app.py
 
 📢 Acknowledgement
 
