@@ -29,19 +29,12 @@ Python (Pandas, Matplotlib) – For data preprocessing and exploration.
 - Applied **industry-level business intelligence practices** to a real-world dataset.
 - Improved **professional communication and presentation** skills.
 
+
 🗂️ Project Structure
 
 📁 GDP-Productivity-Indian-Cities/
-│
-├── 📊 PowerBI_Dashboard.pbix          # Power BI report file
-├── 📄 streamlit_app.py                # Streamlit web dashboard script
-├── 📁 data/                           # Raw and processed datasets
-│   ├── raw_gdp_data.csv
-│   └── cleaned_data.csv
-├── 📁 docs/                           # Supporting documentation and presentation
-│   ├── report.pdf
-│   └── presentation.pptx
-└── README.md                         # Project overview
+
+Gather_Raw_GDP_data---->Data Preprocessing---->PowerBI Dashboard Development---->Develop the web application and Integrate the dashboard by using Streamlit.
 
 
 🖼️ Sample Dashboard 
@@ -53,6 +46,7 @@ Python (Pandas, Matplotlib) – For data preprocessing and exploration.
 ![Screenshot 2025-01-22 190016](https://github.com/user-attachments/assets/3164ef26-f9c1-4ce5-b1be-6bde8c115150)
 
 ![Screenshot 2025-01-22 190034](https://github.com/user-attachments/assets/596e2fc1-d668-4f1d-b845-35620e11a166)
+
 
 
 📌 How to Run the Streamlit Dashboard
