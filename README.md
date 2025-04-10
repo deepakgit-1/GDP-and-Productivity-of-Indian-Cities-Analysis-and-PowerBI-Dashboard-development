@@ -22,7 +22,7 @@ To gather, process, and visualize economic data—specifically GDP and productiv
 Power BI – For creating powerful, interactive dashboards and charts.  
 Streamlit - For building a simple, intuitive web-based data dashboard.  
 Python (Pandas, Matplotlib) – For data preprocessing and exploration.
-Google colab - Platform to do data preprocessing
+Google colab - Platform to do data preprocessing.
 
 
 🧠 Learning Outcomes
