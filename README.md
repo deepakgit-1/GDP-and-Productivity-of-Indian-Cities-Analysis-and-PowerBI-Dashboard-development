@@ -67,3 +67,8 @@ Gather Raw GDP data---->Data Preprocessing---->PowerBI Dashboard Development----
 
 This project was developed during my internship with **Infosys Springboard**. I am grateful for the guidance, support, and mentorship provided throughout the internship.
 
+📌 Certificate of Internship Completion:
+
+![Infosys_Internship_Cert_page-0001](https://github.com/user-attachments/assets/e49c6060-f762-4756-82de-6ed6bc7c6cdc)
+
+
