@@ -34,6 +34,7 @@ Python (Pandas, Matplotlib) – For data preprocessing and exploration.
 
 📁 GDP-Productivity-Indian-Cities/
 
+Steps:
 Gather_Raw_GDP_data---->Data Preprocessing---->PowerBI Dashboard Development---->Develop the web application and Integrate the dashboard by using Streamlit.
 
 
