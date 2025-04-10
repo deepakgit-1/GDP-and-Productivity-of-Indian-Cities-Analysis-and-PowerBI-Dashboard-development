@@ -8,11 +8,13 @@ Internship Organization: Infosys Springboard
 Duration: 2 Months  
 Technology Stack: Power BI, Streamlit, Python  
 Domain: Data Visualization & Business Intelligence  
-Project Title: GDP and Productivity of Indian Cities  
+Project Title: GDP and Productivity of Indian Cities 
+
 
 🔍 Objective
 
 To gather, process, and visualize economic data—specifically GDP and productivity metrics—of Indian cities to extract actionable insights. The project aims to support data-driven decision-making using interactive dashboards and modern visualization tools.
+
 
 
 🚀 Tools & Technologies Used
@@ -22,21 +24,24 @@ Streamlit - For building a simple, intuitive web-based data dashboard.
 Python (Pandas, Matplotlib) – For data preprocessing and exploration.
 
 
+
 🧠 Learning Outcomes
 - Gained hands-on experience in **data cleaning, transformation, and visualization**.
 - Built **interactive dashboards** using Power BI and Streamlit.
 - Interpreted and communicated insights effectively through presentations.
 - Applied **industry-level business intelligence practices** to a real-world dataset.
 - Improved **professional communication and presentation** skills.
+- 
 
 
 🗂️ Project Structure
 
 📁 GDP-Productivity-Indian-Cities/
 
--Steps:
+Steps:
 
-Gather_Raw_GDP_data---->Data Preprocessing---->PowerBI Dashboard Development---->Develop the web application and Integrate the dashboard by using Streamlit.
+Gather Raw GDP data---->Data Preprocessing---->PowerBI Dashboard Development---->Develop the web application and Integrate the dashboard by using Streamlit.
+
 
 
 🖼️ Sample Dashboard 
@@ -51,10 +56,12 @@ Gather_Raw_GDP_data---->Data Preprocessing---->PowerBI Dashboard Development----
 
 
 
+
 📌 How to Run the Streamlit Dashboard
 
 - pip install streamlit pandas matplotlib
 - streamlit run streamlit_app.py
+  
 
 📢 Acknowledgement
 
