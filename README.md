@@ -1,4 +1,4 @@
-# GDP-and-Productivity-of-Indian-Cities-Analysis-and-PowerBI-Dashboard-development
+# GDP-and-Productivity-of-Indian-Cities-Analysis-and-PowerBI-Dashboard-development.
 
 This repository showcases the outcomes of my internship project completed as part of the **Infosys Springboard** program. The project focuses on analyzing and visualizing GDP and productivity trends across major Indian cities using modern data visualization tools.
 
